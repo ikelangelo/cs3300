@@ -6,10 +6,6 @@ class ProjectsController < ApplicationController
 
   
 
-  #user_signed_in?
-  #current_user
-  #user_session
-
   # GET /projects or /projects.json
   def index
     @projects = Project.all

@@ -24,6 +24,7 @@ class ProjectsController < ApplicationController
   def edit
   end
 
+  
   # POST /projects or /projects.json
   def create
     @project = Project.new(project_params)

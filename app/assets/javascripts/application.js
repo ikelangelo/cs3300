@@ -14,3 +14,9 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+
+
+//= -----------------added from https://github.com/twbs/bootstrap-rubygem/tree/4.6-stable
+//= require jquery3
+//= require popper
+//= require bootstrap-sprockets

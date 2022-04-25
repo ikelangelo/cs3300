@@ -74,3 +74,8 @@ gem 'mini_racer'
   
 gem 'devise'
 
+#bootstrap gems
+
+gem 'bootstrap', '~> 4.6.1'
+
+gem 'jquery-rails'
